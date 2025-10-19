@@ -12,7 +12,7 @@ Atualmente **cursando Engenharia de Software**, sempre em busca de criar aplica�
 - 💬 Experiência com **Java, HTML, CSS, JavaScript, React e bancos de dados SQL/NoSQL**  
 - 🎓 **Cursando Engenharia de Software**  
 - 📫 Contato: **gleissonfernando0404@gmail.com**  
-- ⚡ Curiosidade: adoro criar interfaces com **design futurista e interativo** ⚙️  
+
 
 ---
 
@@ -34,13 +34,13 @@ Atualmente **cursando Engenharia de Software**, sempre em busca de criar aplica�
 #### 🗃️ Banco de Dados
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 #### 🛠️ Ferramentas
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code)
-![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellij-idea)
+
 
 ---
 
